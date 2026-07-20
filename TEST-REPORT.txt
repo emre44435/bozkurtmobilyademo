@@ -1,0 +1,15 @@
+BOZKURT MOBİLYA — TEST RAPORU
+================================
+
+HTML yapısı: BAŞARILI
+Yerel dosya bağlantıları: BAŞARILI
+Anchor bağlantıları: BAŞARILI
+JavaScript sözdizimi: BAŞARILI
+Görsel dosyaları: BAŞARILI
+320–430 px mobil stilleri: responsive.css içinde özel kırılımlar mevcut
+Klavye/ESC/focus trap: main.js içinde uygulandı
+prefers-reduced-motion: style.css içinde uygulandı
+WhatsApp mesaj kodlama: encodeURIComponent ile uygulandı
+
+BULGULAR:
+- Sorun bulunmadı.
