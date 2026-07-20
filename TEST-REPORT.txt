@@ -13,3 +13,17 @@ WhatsApp mesaj kodlama: encodeURIComponent ile uygulandı
 
 BULGULAR:
 - Sorun bulunmadı.
+
+V2.1 RESPONSIVE FIX
+- 320 / 360 / 390 / 403 / 430 px için tam genişlik kuralları eklendi.
+- Mobil yatay taşma koruması güçlendirildi.
+- Gerçek WhatsApp logolu 7/24 Destek balonu eklendi.
+- Destek etiketi periyodik görünür/kaybolur; reduced-motion desteği korunur.
+
+V2.1 OTOMATIK GENISLIK TESTI
+Viewport 320px: document/body/hero = 320px, yatay tasma yok.
+Viewport 360px: document/body/hero = 360px, yatay tasma yok.
+Viewport 390px: document/body/hero = 390px, yatay tasma yok.
+Viewport 403px: document/body/hero = 403px, yatay tasma yok.
+Viewport 430px: document/body/hero = 430px, yatay tasma yok.
+Kategori kaydirma alani viewport genisligini asmadan kendi icinde yatay kayar.

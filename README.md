@@ -75,3 +75,8 @@ Mobilde tarayıcı önbelleğini temizleyin veya gizli sekmede kontrol edin.
 - Mobil drawer menü, klavye odağı ve ESC ile kapatma
 - `prefers-reduced-motion` desteği
 - SEO meta etiketleri, JSON-LD, sitemap, robots, manifest ve 404 sayfası
+
+
+## Responsive düzeltme v2.1
+
+Mobil genişlik taşmaları giderildi. Sağ alttaki gerçek WhatsApp simgeli “7/24 Destek” balonu belirli aralıklarla görünür ve kaybolur. Değişikliklerden sonra tarayıcıda Ctrl+F5 ile önbelleği yenileyin.
